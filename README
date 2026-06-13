@@ -1,0 +1,60 @@
+# Volar ✈️
+
+A modern travel booking website UI showcasing destination listings, itineraries, and a smooth booking flow with a visually rich, premium design.
+
+## 🚀 Features
+- Browse popular destinations with images and details
+- View sample itineraries and trip packages
+- Booking flow UI (dates, travelers, search)
+- Responsive design for mobile and desktop
+- Clean, modern aesthetic with smooth animations
+
+## 🛠️ Tech Stack
+- React, Vite, CSS / Tailwind CSS
+
+## 📸 Screenshots
+
+<table>
+<tr>
+<td align="center"><b>Home Page</b></td>
+<td align="center"><b>Destinations</b></td>
+</tr>
+<tr>
+<td><img src="./screenshots/home.png" width="400"/></td>
+<td><img src="./screenshots/destinations.png" width="400"/></td>
+</tr>
+<tr>
+<td align="center"><b>Itinerary</b></td>
+<td align="center"><b>Booking Page</b></td>
+</tr>
+<tr>
+<td><img src="./screenshots/itinerary.png" width="400"/></td>
+<td><img src="./screenshots/booking.png" width="400"/></td>
+</tr>
+</table>
+
+## ⚙️ Setup Instructions
+
+1. Clone the repository
+```bash
+git clone <your-repo-link>
+cd wanderui
+```
+
+2. Install dependencies
+```bash
+npm install
+```
+
+3. Run the app
+```bash
+npm run dev
+```
+
+4. Open `http://localhost:5173` in your browser
+
+## 🌐 Live Demo
+[View Live Demo](#)
+
+## 👤 Author
+Anushri — [Anushri2717](#) 
